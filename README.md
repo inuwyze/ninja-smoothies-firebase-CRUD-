@@ -1,4 +1,6 @@
 # ninja_smoothies
+vue firebase CRUD application
+
 
 ## Project setup
 ```
